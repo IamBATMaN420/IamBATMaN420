@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Full Stack web dev
 - 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ...Open Spurce contribution
-- 📫 How to reach me ...https://www.linkedin.com/in/ayush-basak1/ (Dm me )
+- 📫 How to reach me ...https://www.linkedin.com/in/ayush-basak1/ (Dm  me )
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm an Amvibert
 
